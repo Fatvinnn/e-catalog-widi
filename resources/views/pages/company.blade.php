@@ -1,11 +1,4 @@
-@extends('components.layout')
-
-@section('content')
-<div class="bg-white">
-    <header class="absolute inset-x-0 top-0 z-50">
-        @include('components.navbar')
-    </header>
-
+<x-layout>
     <div class="relative isolate px-6 pt-14 lg:px-8">
         <div class="mx-auto max-w-7xl text-center">
             <h1 class="text-5xl font-semibold text-gray-900">Tentang Kami</h1>
@@ -81,4 +74,4 @@ Kami mengutamakan kualitas dan kepercayaan, memastikan bahwa setiap perangkat ya
         </div>
     </div>
 </div>
-@endsection
+</x-layout>

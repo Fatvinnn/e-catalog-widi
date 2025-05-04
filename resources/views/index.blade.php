@@ -1,11 +1,4 @@
-@extends('components.layout')
-
-            @section('content')
-            <div class="bg-white">
-        <header class="absolute inset-x-0 top-0 z-50 bg-white shadow">
-            @include('components.navbar') {{-- Panggil komponen navbar --}}
-        </header>
-
+<x-layout>
 
             <div class="relative isolate px-6 pt-14 lg:px-8">
                 <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -242,4 +235,4 @@
             });
         </script>
 
-    @endsection
+</x-layout>
