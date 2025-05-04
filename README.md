@@ -18,5 +18,3 @@ Web e-Catalog adalah sebuah aplikasi berbasis web yang memungkinkan pengguna unt
 ## Website Prodi
 [https://pendidikan-ti.ft.unesa.ac.id/](https://pendidikan-ti.ft.unesa.ac.id/)
 
-## Funfact
-Web ini menggunakan **Laravel** sebagai framework utama yang memudahkan dalam pengelolaan database dan routing. Dengan **Filament**, kami bisa membangun panel admin yang efisien untuk manajemen produk dan pesanan. Sedangkan untuk **styling**, kami menggunakan **Tailwind CSS**, yang memungkinkan desain web yang responsif dan modern.
