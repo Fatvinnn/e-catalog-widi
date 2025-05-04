@@ -58,18 +58,23 @@ Kami mengutamakan kualitas dan kepercayaan, memastikan bahwa setiap perangkat ya
             <p class="mt-4 text-lg text-gray-600">Kami terdiri dari profesional yang berpengalaman dalam dunia teknologi dan perangkat Apple, dengan komitmen untuk selalu memberikan kualitas terbaik.</p>
             <div class="mt-8 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
                 <div class="text-center">
-                    <img src="{{ asset('assets/images/pp_person.jpg') }}" alt="Team Member 1" class="w-24 h-24 rounded-full mx-auto">
-                    <h3 class="mt-4 text-lg font-medium text-gray-900">Vinnn</h3>
-                    <p class="text-gray-600">CEO & Founder</p>
+                    <img src="{{ asset('assets/images/pp.png') }}" alt="Team Member 1" class="w-24 h-24 rounded-full mx-auto">
+                    <h3 class="mt-4 text-lg font-medium text-gray-900">Alvin</h3>
+                    <p class="text-gray-600">CEO</p>
                 </div>
                 <div class="text-center">
-                    <img src="{{ asset('assets/images/pp_person.jpg') }}" alt="Team Member 2" class="w-24 h-24 rounded-full mx-auto">
-                    <h3 class="mt-4 text-lg font-medium text-gray-900">Vinnn</h3>
+                    <img src="{{ asset('assets/images/pp.png') }}" alt="Team Member 2" class="w-24 h-24 rounded-full mx-auto">
+                    <h3 class="mt-4 text-lg font-medium text-gray-900">Gavin</h3>
                     <p class="text-gray-600">COO</p>
                 </div>
                 <div class="text-center">
-                    <img src="{{ asset('assets/images/pp_person.jpg') }}" alt="Team Member 3" class="w-24 h-24 rounded-full mx-auto">
-                    <h3 class="mt-4 text-lg font-medium text-gray-900">Vinnn</h3>
+                    <img src="{{ asset('assets/images/pp.png') }}" alt="Team Member 3" class="w-24 h-24 rounded-full mx-auto">
+                    <h3 class="mt-4 text-lg font-medium text-gray-900">Faiz</h3>
+                    <p class="text-gray-600">CTO</p>
+                </div>
+                <div class="text-center">
+                    <img src="{{ asset('assets/images/pp.png') }}" alt="Team Member 3" class="w-24 h-24 rounded-full mx-auto">
+                    <h3 class="mt-4 text-lg font-medium text-gray-900">Yasmin</h3>
                     <p class="text-gray-600">CTO</p>
                 </div>
             </div>
