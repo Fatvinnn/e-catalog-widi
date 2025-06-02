@@ -23,6 +23,6 @@
         </div>
     </div>
     <div class="mt-8 text-center text-sm text-gray-500">
-        &copy; 2025 Ecom Laravel. All rights reserved.
+        &copy; 2025 Widiphone. All rights reserved.
     </div>
 </footer>

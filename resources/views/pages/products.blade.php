@@ -31,7 +31,7 @@
                                 <img src="{{ $product->image ? asset('storage/' . $product->image) : 'https://via.placeholder.com/150' }}" alt="{{ $product->name }}" class="w-full h-48 object-cover">
                             </div>
                             <div class="text-right">
-                                <p class="text-gray-900 font-bold">${{ number_format($product->price, 2) }}</p>
+                                <p class="text-gray-900 font-bold">Rp.{{ number_format($product->price, 2) }}</p>
                                 <div class="mt-4">
                                     <a href="{{ route('product.details', ['id' => $product->id]) }}" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">View Details</a>
                                 </div>
